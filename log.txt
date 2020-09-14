@@ -1,0 +1,4913 @@
+article number 1
+1806
+article number 2
+3772
+article number 3
+1047
+article number 4
+6967
+article number 5
+768
+article number 6
+1419
+article number 7
+4520
+article number 8
+2379
+article number 9
+3064
+article number 10
+4794
+article number 11
+5727
+article number 12
+2890
+article number 13
+1785
+article number 14
+1889
+article number 15
+2335
+article number 16
+2547
+article number 17
+2207
+article number 18
+691
+article number 19
+1185
+article number 20
+2855
+article number 21
+1396
+article number 22
+2648
+article number 23
+2643
+article number 24
+80
+article number 25
+2299
+article number 26
+2290
+article number 27
+3788
+article number 28
+4306
+article number 29
+2626
+article number 30
+2682
+article number 31
+3700
+article number 32
+1510
+article number 33
+2977
+article number 34
+1991
+article number 35
+5351
+article number 36
+3190
+article number 37
+915
+article number 38
+4437
+article number 39
+3840
+article number 40
+2655
+article number 41
+1935
+article number 42
+3163
+article number 43
+2996
+article number 44
+2556
+article number 45
+3963
+article number 46
+2682
+article number 47
+1211
+article number 48
+1180
+article number 49
+2316
+article number 50
+3412
+article number 51
+11331
+article number 52
+3987
+article number 53
+10224
+article number 54
+2160
+article number 55
+800
+article number 56
+6528
+article number 57
+2628
+article number 58
+2315
+article number 59
+4710
+article number 60
+4081
+article number 61
+1476
+article number 62
+2287
+article number 63
+5755
+article number 64
+3130
+article number 65
+1880
+article number 66
+2293
+article number 67
+489
+article number 68
+6433
+article number 69
+4266
+article number 70
+2791
+article number 71
+3994
+article number 72
+2180
+article number 73
+3310
+article number 74
+3384
+article number 75
+3107
+article number 76
+3386
+article number 77
+2553
+article number 78
+6872
+article number 79
+1108
+article number 80
+1690
+article number 81
+2811
+article number 82
+2348
+article number 83
+4569
+article number 84
+2159
+article number 85
+1268
+article number 86
+3564
+article number 87
+1877
+article number 88
+2140
+article number 89
+2163
+article number 90
+3933
+article number 91
+1581
+article number 92
+3539
+article number 93
+1636
+article number 94
+2503
+article number 95
+2889
+article number 96
+1538
+article number 97
+1556
+article number 98
+683
+article number 99
+3021
+article number 100
+1365
+article number 101
+80
+article number 102
+2577
+article number 103
+789
+article number 104
+2538
+article number 105
+6150
+article number 106
+80
+article number 107
+791
+article number 108
+1472
+article number 109
+2110
+article number 110
+1296
+article number 111
+3291
+article number 112
+2825
+article number 113
+2477
+article number 114
+1518
+article number 115
+5068
+article number 116
+1835
+article number 117
+1566
+article number 118
+2581
+article number 119
+1787
+article number 120
+1887
+article number 121
+703
+article number 122
+2688
+article number 123
+1322
+article number 124
+1812
+article number 125
+1986
+article number 126
+2462
+article number 127
+1081
+article number 128
+5392
+article number 129
+3604
+article number 130
+2526
+article number 131
+1145
+article number 132
+349
+article number 133
+2368
+article number 134
+2237
+article number 135
+1872
+article number 136
+3882
+article number 137
+2552
+article number 138
+1151
+article number 139
+2708
+article number 140
+something bad happened on article 140, for 2017-01-23
+0
+article number 141
+4687
+article number 142
+1275
+article number 143
+2323
+article number 144
+something bad happened on article 144, for 2017-01-24
+0
+article number 145
+2742
+article number 146
+1349
+article number 147
+4153
+article number 148
+2877
+article number 149
+6789
+article number 150
+1557
+article number 151
+5311
+article number 152
+2878
+article number 153
+0
+article number 154
+1216
+article number 155
+1829
+article number 156
+1481
+article number 157
+6538
+article number 158
+1103
+article number 159
+2649
+article number 160
+4312
+article number 161
+3931
+article number 162
+0
+article number 163
+2018
+article number 164
+2179
+article number 165
+1395
+article number 166
+2495
+article number 167
+1250
+article number 168
+1707
+article number 169
+1681
+article number 170
+something bad happened on article 170, for 2017-01-26
+0
+article number 171
+2445
+article number 172
+866
+article number 173
+2096
+article number 174
+3326
+article number 175
+1365
+article number 176
+2542
+article number 177
+4895
+article number 178
+2063
+article number 179
+1631
+article number 180
+888
+article number 181
+2813
+article number 182
+2859
+article number 183
+3711
+article number 184
+11580
+article number 185
+1429
+article number 186
+208
+article number 187
+251
+article number 188
+2951
+article number 189
+409
+article number 190
+542
+article number 191
+3118
+article number 192
+something bad happened on article 192, for 2017-01-30
+0
+article number 193
+409
+article number 194
+1778
+article number 195
+1414
+article number 196
+1867
+article number 197
+2990
+article number 198
+0
+article number 199
+3480
+article number 200
+4842
+article number 201
+4369
+article number 202
+1254
+article number 203
+5920
+article number 204
+2581
+article number 205
+2139
+article number 206
+5316
+article number 207
+3040
+article number 208
+0
+article number 209
+4911
+article number 210
+4459
+article number 211
+1750
+article number 212
+3205
+article number 213
+507
+article number 214
+2923
+article number 215
+1420
+article number 216
+5430
+article number 217
+1336
+article number 218
+1027
+article number 219
+1843
+article number 220
+3558
+article number 221
+3290
+article number 222
+1437
+article number 223
+3064
+article number 224
+1876
+article number 225
+1795
+article number 226
+3017
+article number 227
+0
+article number 228
+2236
+article number 229
+1255
+article number 230
+2469
+article number 231
+5988
+article number 232
+1772
+article number 233
+4421
+article number 234
+3198
+article number 235
+3280
+article number 236
+1096
+article number 237
+1183
+article number 238
+2287
+article number 239
+9018
+article number 240
+3338
+article number 241
+8969
+article number 242
+2060
+article number 243
+4124
+article number 244
+589
+article number 245
+1226
+article number 246
+1201
+article number 247
+4422
+article number 248
+5253
+article number 249
+2312
+article number 250
+1567
+article number 251
+4669
+article number 252
+2647
+article number 253
+2926
+article number 254
+5500
+article number 255
+something bad happened on article 255, for 2017-02-08
+0
+article number 256
+1074
+article number 257
+1583
+article number 258
+1151
+article number 259
+1496
+article number 260
+1480
+article number 261
+80
+article number 262
+6186
+article number 263
+3550
+article number 264
+0
+article number 265
+2017
+article number 266
+3612
+article number 267
+2626
+article number 268
+5249
+article number 269
+1366
+article number 270
+1550
+article number 271
+3291
+article number 272
+2159
+article number 273
+2841
+article number 274
+3560
+article number 275
+1272
+article number 276
+777
+article number 277
+3407
+article number 278
+4340
+article number 279
+347
+article number 280
+something bad happened on article 280, for 2017-02-10
+0
+article number 281
+3776
+article number 282
+4231
+article number 283
+3030
+article number 284
+2335
+article number 285
+something bad happened on article 285, for 2017-02-13
+0
+article number 286
+2548
+article number 287
+1948
+article number 288
+1734
+article number 289
+80
+article number 290
+3461
+article number 291
+2979
+article number 292
+2650
+article number 293
+5324
+article number 294
+3769
+article number 295
+2897
+article number 296
+1964
+article number 297
+3673
+article number 298
+1949
+article number 299
+2030
+article number 300
+1457
+article number 301
+0
+article number 302
+613
+article number 303
+3527
+article number 304
+879
+article number 305
+1142
+article number 306
+3408
+article number 307
+1612
+article number 308
+2996
+article number 309
+1372
+article number 310
+2466
+article number 311
+80
+article number 312
+1010
+article number 313
+1189
+article number 314
+1818
+article number 315
+869
+article number 316
+2220
+article number 317
+1912
+article number 318
+1928
+article number 319
+2308
+article number 320
+4391
+article number 321
+541
+article number 322
+4726
+article number 323
+4862
+article number 324
+709
+article number 325
+2735
+article number 326
+1537
+article number 327
+2107
+article number 328
+2742
+article number 329
+11000
+article number 330
+1345
+article number 331
+4016
+article number 332
+2816
+article number 333
+2438
+article number 334
+1850
+article number 335
+3699
+article number 336
+2737
+article number 337
+something bad happened on article 337, for 2017-02-21
+0
+article number 338
+667
+article number 339
+3690
+article number 340
+1383
+article number 341
+2266
+article number 342
+1527
+article number 343
+2952
+article number 344
+2835
+article number 345
+3005
+article number 346
+1370
+article number 347
+1853
+article number 348
+1615
+article number 349
+1003
+article number 350
+2839
+article number 351
+16617
+article number 352
+4376
+article number 353
+1148
+article number 354
+2776
+article number 355
+80
+article number 356
+4573
+article number 357
+2812
+article number 358
+2944
+article number 359
+something bad happened on article 359, for 2017-02-23
+0
+article number 360
+1320
+article number 361
+5994
+article number 362
+3203
+article number 363
+6023
+article number 364
+2262
+article number 365
+2176
+article number 366
+80
+article number 367
+3321
+article number 368
+3382
+article number 369
+6809
+article number 370
+5075
+article number 371
+1280
+article number 372
+1776
+article number 373
+2495
+article number 374
+80
+article number 375
+1348
+article number 376
+12743
+article number 377
+1198
+article number 378
+2445
+article number 379
+1232
+article number 380
+2276
+article number 381
+1268
+article number 382
+1243
+article number 383
+1936
+article number 384
+something bad happened on article 384, for 2017-02-28
+0
+article number 385
+1349
+article number 386
+1256
+article number 387
+2650
+article number 388
+2412
+article number 389
+1771
+article number 390
+2012
+article number 391
+3074
+article number 392
+2621
+article number 393
+2164
+article number 394
+2915
+article number 395
+2372
+article number 396
+2492
+article number 397
+1778
+article number 398
+2294
+article number 399
+2145
+article number 400
+3068
+article number 401
+2023
+article number 402
+1233
+article number 403
+2066
+article number 404
+2043
+article number 405
+2812
+article number 406
+3066
+article number 407
+1267
+article number 408
+3212
+article number 409
+851
+article number 410
+1341
+article number 411
+2324
+article number 412
+2111
+article number 413
+5982
+article number 414
+785
+article number 415
+2477
+article number 416
+80
+article number 417
+2987
+article number 418
+3292
+article number 419
+2996
+article number 420
+8889
+article number 421
+5961
+article number 422
+5230
+article number 423
+1150
+article number 424
+5619
+article number 425
+1622
+article number 426
+13091
+article number 427
+2711
+article number 428
+1991
+article number 429
+1438
+article number 430
+1835
+article number 431
+4168
+article number 432
+4950
+article number 433
+2881
+article number 434
+2492
+article number 435
+420
+article number 436
+6501
+article number 437
+4862
+article number 438
+2862
+article number 439
+2557
+article number 440
+4013
+article number 441
+0
+article number 442
+941
+article number 443
+208
+article number 444
+4454
+article number 445
+3168
+article number 446
+2417
+article number 447
+3381
+article number 448
+4250
+article number 449
+11630
+article number 450
+1248
+article number 451
+1166
+article number 452
+714
+article number 453
+2528
+article number 454
+2158
+article number 455
+2441
+article number 456
+2260
+article number 457
+2852
+article number 458
+2996
+article number 459
+1912
+article number 460
+1572
+article number 461
+12458
+article number 462
+2335
+article number 463
+5048
+article number 464
+2741
+article number 465
+4708
+article number 466
+10322
+article number 467
+3091
+article number 468
+5936
+article number 469
+4097
+article number 470
+7510
+article number 471
+1853
+article number 472
+4884
+article number 473
+5863
+article number 474
+5841
+article number 475
+2323
+article number 476
+2817
+article number 477
+2374
+article number 478
+1936
+article number 479
+854
+article number 480
+3165
+article number 481
+1881
+article number 482
+0
+article number 483
+7344
+article number 484
+3919
+article number 485
+3728
+article number 486
+1733
+article number 487
+4126
+article number 488
+871
+article number 489
+1400
+article number 490
+2084
+article number 491
+573
+article number 492
+5688
+article number 493
+1460
+article number 494
+9927
+article number 495
+1570
+article number 496
+4430
+article number 497
+6614
+article number 498
+2658
+article number 499
+3430
+article number 500
+3373
+article number 501
+0
+article number 502
+1538
+article number 503
+1784
+article number 504
+80
+article number 505
+7313
+article number 506
+1595
+article number 507
+2458
+article number 508
+3533
+article number 509
+1166
+article number 510
+2275
+article number 511
+4550
+article number 512
+1965
+article number 513
+2839
+article number 514
+something bad happened on article 514, for 2017-03-17
+0
+article number 515
+691
+article number 516
+3502
+article number 517
+3620
+article number 518
+2976
+article number 519
+1584
+article number 520
+1631
+article number 521
+4482
+article number 522
+3145
+article number 523
+983
+article number 524
+1383
+article number 525
+1319
+article number 526
+2070
+article number 527
+1465
+article number 528
+748
+article number 529
+6043
+article number 530
+1774
+article number 531
+2416
+article number 532
+2607
+article number 533
+841
+article number 534
+10200
+article number 535
+2661
+article number 536
+2307
+article number 537
+2199
+article number 538
+976
+article number 539
+3714
+article number 540
+1313
+article number 541
+7029
+article number 542
+3960
+article number 543
+1837
+article number 544
+2264
+article number 545
+1892
+article number 546
+4186
+article number 547
+3141
+article number 548
+80
+article number 549
+5079
+article number 550
+2260
+article number 551
+1823
+article number 552
+3421
+article number 553
+2309
+article number 554
+1900
+article number 555
+1020
+article number 556
+1618
+article number 557
+3426
+article number 558
+12921
+article number 559
+2851
+article number 560
+2715
+article number 561
+3386
+article number 562
+3841
+article number 563
+3984
+article number 564
+3463
+article number 565
+5544
+article number 566
+4295
+article number 567
+3615
+article number 568
+7374
+article number 569
+1115
+article number 570
+11766
+article number 571
+4380
+article number 572
+4980
+article number 573
+3049
+article number 574
+2687
+article number 575
+3396
+article number 576
+1522
+article number 577
+6076
+article number 578
+2360
+article number 579
+44
+article number 580
+3673
+article number 581
+2456
+article number 582
+4938
+article number 583
+1458
+article number 584
+2315
+article number 585
+1280
+article number 586
+2512
+article number 587
+3683
+article number 588
+4374
+article number 589
+3290
+article number 590
+1529
+article number 591
+6104
+article number 592
+2903
+article number 593
+something bad happened on article 593, for 2017-03-29
+0
+article number 594
+1082
+article number 595
+80
+article number 596
+1171
+article number 597
+5974
+article number 598
+6977
+article number 599
+5206
+article number 600
+2719
+article number 601
+80
+article number 602
+1989
+article number 603
+1569
+article number 604
+1367
+article number 605
+7749
+article number 606
+7003
+article number 607
+8115
+article number 608
+2065
+article number 609
+2185
+article number 610
+1485
+article number 611
+1503
+article number 612
+2195
+article number 613
+2458
+article number 614
+1875
+article number 615
+1824
+article number 616
+5723
+article number 617
+3173
+article number 618
+1021
+article number 619
+6772
+article number 620
+2457
+article number 621
+1803
+article number 622
+80
+article number 623
+2030
+article number 624
+3162
+article number 625
+4211
+article number 626
+208
+article number 627
+3392
+article number 628
+2614
+article number 629
+2852
+article number 630
+272
+article number 631
+44
+article number 632
+1463
+article number 633
+3246
+article number 634
+2917
+article number 635
+3767
+article number 636
+3415
+article number 637
+1545
+article number 638
+983
+article number 639
+7839
+article number 640
+6983
+article number 641
+1968
+article number 642
+2750
+article number 643
+5422
+article number 644
+3808
+article number 645
+3350
+article number 646
+1910
+article number 647
+2452
+article number 648
+3821
+article number 649
+2531
+article number 650
+2334
+article number 651
+4818
+article number 652
+3427
+article number 653
+3109
+article number 654
+2595
+article number 655
+1015
+article number 656
+1829
+article number 657
+1642
+article number 658
+649
+article number 659
+525
+article number 660
+1215
+article number 661
+3675
+article number 662
+5346
+article number 663
+4113
+article number 664
+1569
+article number 665
+1396
+article number 666
+2238
+article number 667
+1324
+article number 668
+4409
+article number 669
+2768
+article number 670
+something bad happened on article 670, for 2017-04-07
+0
+article number 671
+2207
+article number 672
+4461
+article number 673
+1053
+article number 674
+1551
+article number 675
+1371
+article number 676
+2471
+article number 677
+3043
+article number 678
+3307
+article number 679
+20511
+article number 680
+208
+article number 681
+1971
+article number 682
+6815
+article number 683
+2252
+article number 684
+6413
+article number 685
+4846
+article number 686
+1489
+article number 687
+3288
+article number 688
+1872
+article number 689
+3820
+article number 690
+2902
+article number 691
+6359
+article number 692
+4538
+article number 693
+1438
+article number 694
+1637
+article number 695
+1892
+article number 696
+2096
+article number 697
+1979
+article number 698
+3108
+article number 699
+4709
+article number 700
+2279
+article number 701
+2159
+article number 702
+2607
+article number 703
+1170
+article number 704
+783
+article number 705
+888
+article number 706
+4087
+article number 707
+1610
+article number 708
+4598
+article number 709
+something bad happened on article 709, for 2017-04-13
+0
+article number 710
+3593
+article number 711
+2579
+article number 712
+3659
+article number 713
+3652
+article number 714
+2807
+article number 715
+/usr/lib/python3.8/site-packages/dateutil/parser/_parser.py:1213: UnknownTimezoneWarning: tzname IST identified but not understood.  Pass `tzinfos` argument in order to correctly return a timezone-aware datetime.  In a future version, this will raise an exception.
+  warnings.warn("tzname {tzname} identified but not understood.  "
+2142
+article number 716
+4970
+article number 717
+4530
+article number 718
+477
+article number 719
+2055
+article number 720
+2009
+article number 721
+2096
+article number 722
+3006
+article number 723
+1873
+article number 724
+901
+article number 725
+1239
+article number 726
+2786
+article number 727
+10073
+article number 728
+1110
+article number 729
+2106
+article number 730
+1637
+article number 731
+2494
+article number 732
+3588
+article number 733
+1348
+article number 734
+2891
+article number 735
+2929
+article number 736
+9512
+article number 737
+13444
+article number 738
+2547
+article number 739
+2647
+article number 740
+2121
+article number 741
+2907
+article number 742
+1709
+article number 743
+1665
+article number 744
+2105
+article number 745
+2226
+article number 746
+975
+article number 747
+685
+article number 748
+862
+article number 749
+3504
+article number 750
+2173
+article number 751
+3217
+article number 752
+3091
+article number 753
+1062
+article number 754
+2728
+article number 755
+4251
+article number 756
+1917
+article number 757
+3249
+article number 758
+3977
+article number 759
+80
+article number 760
+7192
+article number 761
+3990
+article number 762
+2768
+article number 763
+5325
+article number 764
+4775
+article number 765
+3680
+article number 766
+4344
+article number 767
+2604
+article number 768
+5147
+article number 769
+2032
+article number 770
+2386
+article number 771
+3795
+article number 772
+3899
+article number 773
+2407
+article number 774
+1684
+article number 775
+2899
+article number 776
+5879
+article number 777
+7952
+article number 778
+3332
+article number 779
+5261
+article number 780
+5805
+article number 781
+1723
+article number 782
+6040
+article number 783
+1839
+article number 784
+4246
+article number 785
+2649
+article number 786
+2964
+article number 787
+1755
+article number 788
+7839
+article number 789
+1155
+article number 790
+3323
+article number 791
+1357
+article number 792
+2988
+article number 793
+3178
+article number 794
+4081
+article number 795
+3429
+article number 796
+3276
+article number 797
+1963
+article number 798
+3062
+article number 799
+1218
+article number 800
+2242
+article number 801
+6469
+article number 802
+10412
+article number 803
+2782
+article number 804
+2466
+article number 805
+1496
+article number 806
+6053
+article number 807
+6362
+article number 808
+1488
+article number 809
+4143
+article number 810
+3510
+article number 811
+10564
+article number 812
+2736
+article number 813
+4335
+article number 814
+4528
+article number 815
+1251
+article number 816
+176
+article number 817
+18998
+article number 818
+3064
+article number 819
+1672
+article number 820
+1987
+article number 821
+6376
+article number 822
+6963
+article number 823
+786
+article number 824
+2854
+article number 825
+2407
+article number 826
+1226
+article number 827
+1180
+article number 828
+2602
+article number 829
+2396
+article number 830
+657
+article number 831
+2236
+article number 832
+1690
+article number 833
+299
+article number 834
+3382
+article number 835
+942
+article number 836
+3132
+article number 837
+5284
+article number 838
+208
+article number 839
+2172
+article number 840
+4572
+article number 841
+3220
+article number 842
+3222
+article number 843
+2756
+article number 844
+4869
+article number 845
+4496
+article number 846
+6097
+article number 847
+1101
+article number 848
+3875
+article number 849
+4909
+article number 850
+2665
+article number 851
+2439
+article number 852
+4635
+article number 853
+3000
+article number 854
+1718
+article number 855
+3443
+article number 856
+2510
+article number 857
+3671
+article number 858
+4089
+article number 859
+1538
+article number 860
+3181
+article number 861
+719
+article number 862
+2546
+article number 863
+4995
+article number 864
+1147
+article number 865
+9615
+article number 866
+5332
+article number 867
+591
+article number 868
+2735
+article number 869
+3209
+article number 870
+1997
+article number 871
+1521
+article number 872
+778
+article number 873
+754
+article number 874
+4087
+article number 875
+3803
+article number 876
+2813
+article number 877
+2138
+article number 878
+3392
+article number 879
+2557
+article number 880
+3350
+article number 881
+1207
+article number 882
+3178
+article number 883
+3335
+article number 884
+3098
+article number 885
+6837
+article number 886
+7234
+article number 887
+836
+article number 888
+859
+article number 889
+1653
+article number 890
+6088
+article number 891
+1549
+article number 892
+1628
+article number 893
+1419
+article number 894
+2191
+article number 895
+3423
+article number 896
+2950
+article number 897
+3540
+article number 898
+1875
+article number 899
+6128
+article number 900
+1060
+article number 901
+2802
+article number 902
+3369
+article number 903
+1387
+article number 904
+2216
+article number 905
+1274
+article number 906
+4680
+article number 907
+1815
+article number 908
+4493
+article number 909
+4770
+article number 910
+4325
+article number 911
+3856
+article number 912
+7748
+article number 913
+3892
+article number 914
+3658
+article number 915
+2009
+article number 916
+2665
+article number 917
+3358
+article number 918
+6373
+article number 919
+1437
+article number 920
+29120
+article number 921
+12107
+article number 922
+7848
+article number 923
+15002
+article number 924
+2348
+article number 925
+4261
+article number 926
+4820
+article number 927
+3660
+article number 928
+176
+article number 929
+1856
+article number 930
+2463
+article number 931
+something bad happened on article 931, for 2017-05-16
+0
+article number 932
+4042
+article number 933
+3523
+article number 934
+1951
+article number 935
+1985
+article number 936
+1398
+article number 937
+2962
+article number 938
+176
+article number 939
+6250
+article number 940
+2091
+article number 941
+4024
+article number 942
+2207
+article number 943
+10419
+article number 944
+6623
+article number 945
+3445
+article number 946
+1591
+article number 947
+2355
+article number 948
+4977
+article number 949
+80
+article number 950
+1040
+article number 951
+5403
+article number 952
+1123
+article number 953
+1345
+article number 954
+2840
+article number 955
+4140
+article number 956
+907
+article number 957
+2426
+article number 958
+2399
+article number 959
+1156
+article number 960
+2854
+article number 961
+3329
+article number 962
+750
+article number 963
+1941
+article number 964
+1881
+article number 965
+6120
+article number 966
+6594
+article number 967
+6440
+article number 968
+1583
+article number 969
+1016
+article number 970
+5223
+article number 971
+2031
+article number 972
+3582
+article number 973
+2549
+article number 974
+2480
+article number 975
+2562
+article number 976
+4625
+article number 977
+4239
+article number 978
+2601
+article number 979
+3670
+article number 980
+2783
+article number 981
+something bad happened on article 981, for 2017-05-23
+0
+article number 982
+590
+article number 983
+1376
+article number 984
+1844
+article number 985
+80
+article number 986
+2034
+article number 987
+4446
+article number 988
+949
+article number 989
+5841
+article number 990
+3985
+article number 991
+9708
+article number 992
+1813
+article number 993
+4319
+article number 994
+5081
+article number 995
+7434
+article number 996
+3454
+article number 997
+7033
+article number 998
+8559
+article number 999
+1657
+article number 1000
+531
+article number 1001
+3334
+article number 1002
+4861
+article number 1003
+2780
+article number 1004
+3490
+article number 1005
+4038
+article number 1006
+1110
+article number 1007
+4528
+article number 1008
+2157
+article number 1009
+5107
+article number 1010
+8574
+article number 1011
+1456
+article number 1012
+208
+article number 1013
+1352
+article number 1014
+something bad happened on article 1014, for 2017-05-26
+0
+article number 1015
+3001
+article number 1016
+0
+article number 1017
+818
+article number 1018
+842
+article number 1019
+2902
+article number 1020
+6019
+article number 1021
+7065
+article number 1022
+3449
+article number 1023
+1958
+article number 1024
+6196
+article number 1025
+1461
+article number 1026
+5098
+article number 1027
+6988
+article number 1028
+6225
+article number 1029
+2407
+article number 1030
+2791
+article number 1031
+1208
+article number 1032
+2666
+article number 1033
+1872
+article number 1034
+3168
+article number 1035
+3196
+article number 1036
+1385
+article number 1037
+1245
+article number 1038
+1947
+article number 1039
+2773
+article number 1040
+818
+article number 1041
+928
+article number 1042
+2453
+article number 1043
+1669
+article number 1044
+3641
+article number 1045
+1333
+article number 1046
+1367
+article number 1047
+7478
+article number 1048
+2433
+article number 1049
+1552
+article number 1050
+1111
+article number 1051
+1396
+article number 1052
+2560
+article number 1053
+1180
+article number 1054
+3465
+article number 1055
+3567
+article number 1056
+1506
+article number 1057
+4271
+article number 1058
+1403
+article number 1059
+4038
+article number 1060
+1717
+article number 1061
+1326
+article number 1062
+2999
+article number 1063
+6108
+article number 1064
+4254
+article number 1065
+1623
+article number 1066
+585
+article number 1067
+1307
+article number 1068
+6422
+article number 1069
+2957
+article number 1070
+4667
+article number 1071
+1698
+article number 1072
+1381
+article number 1073
+2733
+article number 1074
+2621
+article number 1075
+5340
+article number 1076
+869
+article number 1077
+2415
+article number 1078
+4140
+article number 1079
+7011
+article number 1080
+299
+article number 1081
+963
+article number 1082
+3658
+article number 1083
+616
+article number 1084
+2994
+article number 1085
+208
+article number 1086
+3308
+article number 1087
+2112
+article number 1088
+3043
+article number 1089
+3288
+article number 1090
+2698
+article number 1091
+1407
+article number 1092
+3921
+article number 1093
+2434
+article number 1094
+2066
+article number 1095
+3420
+article number 1096
+6878
+article number 1097
+3862
+article number 1098
+2312
+article number 1099
+929
+article number 1100
+4713
+article number 1101
+something bad happened on article 1101, for 2017-06-09
+0
+article number 1102
+1781
+article number 1103
+1161
+article number 1104
+2715
+article number 1105
+4846
+article number 1106
+3687
+article number 1107
+371
+article number 1108
+2098
+article number 1109
+394
+article number 1110
+1234
+article number 1111
+2394
+article number 1112
+4285
+article number 1113
+3188
+article number 1114
+4172
+article number 1115
+2470
+article number 1116
+555
+article number 1117
+1249
+article number 1118
+5211
+article number 1119
+4404
+article number 1120
+3588
+article number 1121
+7728
+article number 1122
+1637
+article number 1123
+1123
+article number 1124
+4508
+article number 1125
+3923
+article number 1126
+2605
+article number 1127
+581
+article number 1128
+7012
+article number 1129
+2784
+article number 1130
+2569
+article number 1131
+1194
+article number 1132
+2874
+article number 1133
+4228
+article number 1134
+3585
+article number 1135
+4206
+article number 1136
+2112
+article number 1137
+2804
+article number 1138
+5497
+article number 1139
+8965
+article number 1140
+1917
+article number 1141
+2124
+article number 1142
+5845
+article number 1143
+6045
+article number 1144
+5017
+article number 1145
+2719
+article number 1146
+5180
+article number 1147
+4068
+article number 1148
+2734
+article number 1149
+1398
+article number 1150
+1737
+article number 1151
+1769
+article number 1152
+2547
+article number 1153
+984
+article number 1154
+7155
+article number 1155
+14332
+article number 1156
+949
+article number 1157
+1620
+article number 1158
+4926
+article number 1159
+6191
+article number 1160
+3871
+article number 1161
+13723
+article number 1162
+763
+article number 1163
+1377
+article number 1164
+2124
+article number 1165
+1335
+article number 1166
+1794
+article number 1167
+something bad happened on article 1167, for 2017-06-19
+0
+article number 1168
+2751
+article number 1169
+4738
+article number 1170
+891
+article number 1171
+2452
+article number 1172
+80
+article number 1173
+4077
+article number 1174
+3119
+article number 1175
+6226
+article number 1176
+2981
+article number 1177
+3071
+article number 1178
+4323
+article number 1179
+2380
+article number 1180
+1128
+article number 1181
+2210
+article number 1182
+1434
+article number 1183
+1861
+article number 1184
+6681
+article number 1185
+3276
+article number 1186
+2228
+article number 1187
+3160
+article number 1188
+5296
+article number 1189
+1542
+article number 1190
+2954
+article number 1191
+3977
+article number 1192
+3410
+article number 1193
+9248
+article number 1194
+2020
+article number 1195
+2912
+article number 1196
+3035
+article number 1197
+2532
+article number 1198
+6661
+article number 1199
+2106
+article number 1200
+3631
+article number 1201
+2644
+article number 1202
+2384
+article number 1203
+3245
+article number 1204
+1525
+article number 1205
+7862
+article number 1206
+2434
+article number 1207
+5891
+article number 1208
+3897
+article number 1209
+5945
+article number 1210
+2411
+article number 1211
+3568
+article number 1212
+3279
+article number 1213
+3281
+article number 1214
+1728
+article number 1215
+1421
+article number 1216
+9005
+article number 1217
+3189
+article number 1218
+1134
+article number 1219
+2612
+article number 1220
+2456
+article number 1221
+2456
+article number 1222
+2200
+article number 1223
+2745
+article number 1224
+2899
+article number 1225
+3248
+article number 1226
+3234
+article number 1227
+2955
+article number 1228
+2248
+article number 1229
+1756
+article number 1230
+something bad happened on article 1230, for 2017-06-27
+0
+article number 1231
+3031
+article number 1232
+5179
+article number 1233
+3060
+article number 1234
+2284
+article number 1235
+1460
+article number 1236
+1168
+article number 1237
+11064
+article number 1238
+1151
+article number 1239
+4055
+article number 1240
+0
+article number 1241
+4885
+article number 1242
+2103
+article number 1243
+3120
+article number 1244
+3693
+article number 1245
+1430
+article number 1246
+2823
+article number 1247
+1440
+article number 1248
+3242
+article number 1249
+5878
+article number 1250
+2589
+article number 1251
+1508
+article number 1252
+3694
+article number 1253
+3750
+article number 1254
+4143
+article number 1255
+1751
+article number 1256
+2845
+article number 1257
+1626
+article number 1258
+1906
+article number 1259
+1441
+article number 1260
+something bad happened on article 1260, for 2017-06-30
+0
+article number 1261
+13523
+article number 1262
+3222
+article number 1263
+1387
+article number 1264
+3328
+article number 1265
+1320
+article number 1266
+6193
+article number 1267
+1366
+article number 1268
+2120
+article number 1269
+1501
+article number 1270
+1606
+article number 1271
+1382
+article number 1272
+251
+article number 1273
+1348
+article number 1274
+14764
+article number 1275
+2516
+article number 1276
+1863
+article number 1277
+2233
+article number 1278
+2564
+article number 1279
+4863
+article number 1280
+3828
+article number 1281
+1325
+article number 1282
+6835
+article number 1283
+3246
+article number 1284
+2319
+article number 1285
+2054
+article number 1286
+something bad happened on article 1286, for 2017-07-06
+0
+article number 1287
+1974
+article number 1288
+2258
+article number 1289
+1229
+article number 1290
+4517
+article number 1291
+1707
+article number 1292
+932
+article number 1293
+5231
+article number 1294
+1553
+article number 1295
+4523
+article number 1296
+2300
+article number 1297
+735
+article number 1298
+something bad happened on article 1298, for 2017-07-07
+0
+article number 1299
+8626
+article number 1300
+1246
+article number 1301
+7396
+article number 1302
+438
+article number 1303
+953
+article number 1304
+2631
+article number 1305
+6473
+article number 1306
+3524
+article number 1307
+2394
+article number 1308
+2156
+article number 1309
+2354
+article number 1310
+1855
+article number 1311
+1385
+article number 1312
+3974
+article number 1313
+1778
+article number 1314
+3007
+article number 1315
+3124
+article number 1316
+4464
+article number 1317
+1554
+article number 1318
+2085
+article number 1319
+1121
+article number 1320
+6867
+article number 1321
+3891
+article number 1322
+835
+article number 1323
+1787
+article number 1324
+3362
+article number 1325
+2384
+article number 1326
+1724
+article number 1327
+1433
+article number 1328
+5337
+article number 1329
+2610
+article number 1330
+1830
+article number 1331
+739
+article number 1332
+2930
+article number 1333
+1026
+article number 1334
+3730
+article number 1335
+5231
+article number 1336
+5623
+article number 1337
+11585
+article number 1338
+3781
+article number 1339
+something bad happened on article 1339, for 2017-07-13
+0
+article number 1340
+1069
+article number 1341
+1829
+article number 1342
+1613
+article number 1343
+something bad happened on article 1343, for 2017-07-13
+0
+article number 1344
+613
+article number 1345
+8950
+article number 1346
+2235
+article number 1347
+2536
+article number 1348
+1678
+article number 1349
+3691
+article number 1350
+954
+article number 1351
+3573
+article number 1352
+4948
+article number 1353
+3525
+article number 1354
+3895
+article number 1355
+4239
+article number 1356
+1394
+article number 1357
+2390
+article number 1358
+1552
+article number 1359
+5567
+article number 1360
+1785
+article number 1361
+2279
+article number 1362
+2796
+article number 1363
+4687
+article number 1364
+3055
+article number 1365
+4502
+article number 1366
+1915
+article number 1367
+1675
+article number 1368
+6015
+article number 1369
+something bad happened on article 1369, for 2017-07-18
+0
+article number 1370
+4537
+article number 1371
+2373
+article number 1372
+2015
+article number 1373
+2972
+article number 1374
+2000
+article number 1375
+4169
+article number 1376
+1895
+article number 1377
+791
+article number 1378
+1671
+article number 1379
+5150
+article number 1380
+794
+article number 1381
+3441
+article number 1382
+548
+article number 1383
+1984
+article number 1384
+2254
+article number 1385
+3941
+article number 1386
+4344
+article number 1387
+4471
+article number 1388
+4987
+article number 1389
+something bad happened on article 1389, for 2017-07-20
+0
+article number 1390
+9993
+article number 1391
+1986
+article number 1392
+2080
+article number 1393
+1086
+article number 1394
+1778
+article number 1395
+5072
+article number 1396
+2434
+article number 1397
+4404
+article number 1398
+3338
+article number 1399
+3102
+article number 1400
+2734
+article number 1401
+1553
+article number 1402
+11683
+article number 1403
+3060
+article number 1404
+2050
+article number 1405
+1484
+article number 1406
+2456
+article number 1407
+1716
+article number 1408
+1619
+article number 1409
+1520
+article number 1410
+897
+article number 1411
+4285
+article number 1412
+3983
+article number 1413
+6680
+article number 1414
+1993
+article number 1415
+2065
+article number 1416
+2192
+article number 1417
+4220
+article number 1418
+3819
+article number 1419
+1873
+article number 1420
+1641
+article number 1421
+1854
+article number 1422
+something bad happened on article 1422, for 2017-07-25
+0
+article number 1423
+2019
+article number 1424
+1592
+article number 1425
+1648
+article number 1426
+4005
+article number 1427
+2209
+article number 1428
+5395
+article number 1429
+2730
+article number 1430
+1673
+article number 1431
+7978
+article number 1432
+1225
+article number 1433
+3466
+article number 1434
+1659
+article number 1435
+something bad happened on article 1435, for 2017-07-26
+0
+article number 1436
+753
+article number 1437
+3135
+article number 1438
+622
+article number 1439
+5589
+article number 1440
+80
+article number 1441
+2220
+article number 1442
+4902
+article number 1443
+4447
+article number 1444
+3984
+article number 1445
+1240
+article number 1446
+2732
+article number 1447
+3554
+article number 1448
+978
+article number 1449
+5664
+article number 1450
+1458
+article number 1451
+9171
+article number 1452
+4465
+article number 1453
+1223
+article number 1454
+2410
+article number 1455
+1584
+article number 1456
+6238
+article number 1457
+1996
+article number 1458
+1371
+article number 1459
+1764
+article number 1460
+1738
+article number 1461
+764
+article number 1462
+1524
+article number 1463
+875
+article number 1464
+1907
+article number 1465
+6631
+article number 1466
+2783
+article number 1467
+3549
+article number 1468
+7495
+article number 1469
+1149
+article number 1470
+1865
+article number 1471
+1972
+article number 1472
+1344
+article number 1473
+1768
+article number 1474
+1347
+article number 1475
+1250
+article number 1476
+2589
+article number 1477
+946
+article number 1478
+1323
+article number 1479
+1577
+article number 1480
+3721
+article number 1481
+1453
+article number 1482
+6348
+article number 1483
+3053
+article number 1484
+1389
+article number 1485
+3961
+article number 1486
+2600
+article number 1487
+2426
+article number 1488
+1259
+article number 1489
+5107
+article number 1490
+1283
+article number 1491
+9431
+article number 1492
+80
+article number 1493
+3866
+article number 1494
+4088
+article number 1495
+5973
+article number 1496
+1568
+article number 1497
+962
+article number 1498
+1314
+article number 1499
+80
+article number 1500
+2162
+article number 1501
+4235
+article number 1502
+1418
+article number 1503
+5378
+article number 1504
+2317
+article number 1505
+2336
+article number 1506
+2249
+article number 1507
+1203
+article number 1508
+4171
+article number 1509
+6756
+article number 1510
+3263
+article number 1511
+9057
+article number 1512
+1386
+article number 1513
+3178
+article number 1514
+2126
+article number 1515
+3235
+article number 1516
+5412
+article number 1517
+1757
+article number 1518
+1137
+article number 1519
+2670
+article number 1520
+5731
+article number 1521
+4563
+article number 1522
+1363
+article number 1523
+222
+article number 1524
+1873
+article number 1525
+7989
+article number 1526
+204
+article number 1527
+669
+article number 1528
+1311
+article number 1529
+1924
+article number 1530
+2507
+article number 1531
+1438
+article number 1532
+4948
+article number 1533
+1394
+article number 1534
+4782
+article number 1535
+5104
+article number 1536
+1892
+article number 1537
+6081
+article number 1538
+4342
+article number 1539
+2001
+article number 1540
+4056
+article number 1541
+2835
+article number 1542
+1819
+article number 1543
+689
+article number 1544
+2017
+article number 1545
+4862
+article number 1546
+3021
+article number 1547
+1660
+article number 1548
+2298
+article number 1549
+2844
+article number 1550
+3638
+article number 1551
+3069
+article number 1552
+2153
+article number 1553
+2404
+article number 1554
+4506
+article number 1555
+4219
+article number 1556
+2922
+article number 1557
+1498
+article number 1558
+6419
+article number 1559
+3279
+article number 1560
+4037
+article number 1561
+80
+article number 1562
+something bad happened on article 1562, for 2017-08-14
+0
+article number 1563
+1325
+article number 1564
+4202
+article number 1565
+1928
+article number 1566
+5764
+article number 1567
+2030
+article number 1568
+1546
+article number 1569
+1461
+article number 1570
+1615
+article number 1571
+1358
+article number 1572
+1318
+article number 1573
+2966
+article number 1574
+4739
+article number 1575
+1107
+article number 1576
+2753
+article number 1577
+1915
+article number 1578
+6692
+article number 1579
+3563
+article number 1580
+4982
+article number 1581
+3056
+article number 1582
+3203
+article number 1583
+5253
+article number 1584
+5413
+article number 1585
+2728
+article number 1586
+44
+article number 1587
+1636
+article number 1588
+1203
+article number 1589
+2729
+article number 1590
+1335
+article number 1591
+2336
+article number 1592
+3548
+article number 1593
+1988
+article number 1594
+4150
+article number 1595
+10762
+article number 1596
+2745
+article number 1597
+1005
+article number 1598
+1596
+article number 1599
+564
+article number 1600
+1320
+article number 1601
+1598
+article number 1602
+1384
+article number 1603
+685
+article number 1604
+3174
+article number 1605
+2052
+article number 1606
+6670
+article number 1607
+3055
+article number 1608
+3303
+article number 1609
+1528
+article number 1610
+1922
+article number 1611
+1699
+article number 1612
+2018
+article number 1613
+3413
+article number 1614
+1260
+article number 1615
+1567
+article number 1616
+2124
+article number 1617
+1794
+article number 1618
+3628
+article number 1619
+2749
+article number 1620
+2654
+article number 1621
+2615
+article number 1622
+1897
+article number 1623
+2607
+article number 1624
+1980
+article number 1625
+1628
+article number 1626
+2230
+article number 1627
+2687
+article number 1628
+1357
+article number 1629
+1321
+article number 1630
+2199
+article number 1631
+2435
+article number 1632
+3467
+article number 1633
+464
+article number 1634
+1987
+article number 1635
+5688
+article number 1636
+1278
+article number 1637
+4173
+article number 1638
+4312
+article number 1639
+2294
+article number 1640
+2203
+article number 1641
+16228
+article number 1642
+2039
+article number 1643
+1587
+article number 1644
+7972
+article number 1645
+2163
+article number 1646
+1137
+article number 1647
+0
+article number 1648
+1866
+article number 1649
+1854
+article number 1650
+3770
+article number 1651
+517
+article number 1652
+921
+article number 1653
+3117
+article number 1654
+2357
+article number 1655
+1879
+article number 1656
+3598
+article number 1657
+4818
+article number 1658
+something bad happened on article 1658, for 2017-08-25
+0
+article number 1659
+5573
+article number 1660
+5292
+article number 1661
+3205
+article number 1662
+1727
+article number 1663
+1750
+article number 1664
+2177
+article number 1665
+1839
+article number 1666
+1305
+article number 1667
+3155
+article number 1668
+2744
+article number 1669
+710
+article number 1670
+3019
+article number 1671
+7787
+article number 1672
+2281
+article number 1673
+2357
+article number 1674
+1627
+article number 1675
+2810
+article number 1676
+2371
+article number 1677
+2893
+article number 1678
+3226
+article number 1679
+3694
+article number 1680
+5000
+article number 1681
+2855
+article number 1682
+1383
+article number 1683
+3247
+article number 1684
+something bad happened on article 1684, for 2017-08-30
+0
+article number 1685
+1480
+article number 1686
+5168
+article number 1687
+5356
+article number 1688
+something bad happened on article 1688, for 2017-08-30
+0
+article number 1689
+1963
+article number 1690
+2602
+article number 1691
+4747
+article number 1692
+137
+article number 1693
+4538
+article number 1694
+2503
+article number 1695
+2317
+article number 1696
+1982
+article number 1697
+2215
+article number 1698
+1039
+article number 1699
+1862
+article number 1700
+2392
+article number 1701
+5446
+article number 1702
+644
+article number 1703
+3384
+article number 1704
+904
+article number 1705
+810
+article number 1706
+2236
+article number 1707
+3037
+article number 1708
+6452
+article number 1709
+18158
+article number 1710
+582
+article number 1711
+1787
+article number 1712
+1295
+article number 1713
+854
+article number 1714
+1111
+article number 1715
+1780
+article number 1716
+1868
+article number 1717
+1053
+article number 1718
+5044
+article number 1719
+10593
+article number 1720
+6613
+article number 1721
+2172
+article number 1722
+1358
+article number 1723
+1730
+article number 1724
+1358
+article number 1725
+1881
+article number 1726
+5272
+article number 1727
+803
+article number 1728
+1751
+article number 1729
+3186
+article number 1730
+2279
+article number 1731
+3191
+article number 1732
+3561
+article number 1733
+2434
+article number 1734
+4005
+article number 1735
+1174
+article number 1736
+0
+article number 1737
+1461
+article number 1738
+2300
+article number 1739
+2126
+article number 1740
+14575
+article number 1741
+5086
+article number 1742
+799
+article number 1743
+11919
+article number 1744
+1372
+article number 1745
+550
+article number 1746
+3728
+article number 1747
+3335
+article number 1748
+3209
+article number 1749
+3512
+article number 1750
+3533
+article number 1751
+3360
+article number 1752
+3996
+article number 1753
+3205
+article number 1754
+1402
+article number 1755
+2177
+article number 1756
+1654
+article number 1757
+1552
+article number 1758
+797
+article number 1759
+5376
+article number 1760
+850
+article number 1761
+5487
+article number 1762
+2305
+article number 1763
+1563
+article number 1764
+3793
+article number 1765
+13280
+article number 1766
+2429
+article number 1767
+4560
+article number 1768
+411
+article number 1769
+1287
+article number 1770
+3144
+article number 1771
+2067
+article number 1772
+2242
+article number 1773
+3652
+article number 1774
+2320
+article number 1775
+2736
+article number 1776
+1660
+article number 1777
+2091
+article number 1778
+7486
+article number 1779
+1086
+article number 1780
+6991
+article number 1781
+208
+article number 1782
+7765
+article number 1783
+2228
+article number 1784
+1770
+article number 1785
+3242
+article number 1786
+1331
+article number 1787
+3667
+article number 1788
+3132
+article number 1789
+2131
+article number 1790
+3336
+article number 1791
+3713
+article number 1792
+3597
+article number 1793
+1922
+article number 1794
+3312
+article number 1795
+2127
+article number 1796
+3893
+article number 1797
+1382
+article number 1798
+251
+article number 1799
+1264
+article number 1800
+1569
+article number 1801
+2467
+article number 1802
+32442
+article number 1803
+1042
+article number 1804
+824
+article number 1805
+3402
+article number 1806
+9055
+article number 1807
+3000
+article number 1808
+1497
+article number 1809
+something bad happened on article 1809, for 2017-09-18
+0
+article number 1810
+614
+article number 1811
+something bad happened on article 1811, for 2017-09-19
+0
+article number 1812
+1117
+article number 1813
+1763
+article number 1814
+1514
+article number 1815
+3650
+article number 1816
+1789
+article number 1817
+something bad happened on article 1817, for 2017-09-19
+0
+article number 1818
+1182
+article number 1819
+2556
+article number 1820
+1706
+article number 1821
+637
+article number 1822
+2487
+article number 1823
+1411
+article number 1824
+2767
+article number 1825
+3277
+article number 1826
+1339
+article number 1827
+4192
+article number 1828
+1577
+article number 1829
+1227
+article number 1830
+2207
+article number 1831
+4481
+article number 1832
+3096
+article number 1833
+4601
+article number 1834
+833
+article number 1835
+1870
+article number 1836
+2511
+article number 1837
+6143
+article number 1838
+5155
+article number 1839
+2550
+article number 1840
+4359
+article number 1841
+1626
+article number 1842
+2920
+article number 1843
+2158
+article number 1844
+805
+article number 1845
+2111
+article number 1846
+18045
+article number 1847
+2194
+article number 1848
+13070
+article number 1849
+2846
+article number 1850
+4966
+article number 1851
+4185
+article number 1852
+5483
+article number 1853
+2928
+article number 1854
+2372
+article number 1855
+4014
+article number 1856
+3395
+article number 1857
+1758
+article number 1858
+1801
+article number 1859
+2676
+article number 1860
+1858
+article number 1861
+2301
+article number 1862
+3102
+article number 1863
+5775
+article number 1864
+3427
+article number 1865
+1048
+article number 1866
+728
+article number 1867
+765
+article number 1868
+80
+article number 1869
+1959
+article number 1870
+4885
+article number 1871
+12129
+article number 1872
+766
+article number 1873
+903
+article number 1874
+6367
+article number 1875
+3058
+article number 1876
+1892
+article number 1877
+3180
+article number 1878
+2122
+article number 1879
+1266
+article number 1880
+9581
+article number 1881
+4713
+article number 1882
+24318
+article number 1883
+208
+article number 1884
+2617
+article number 1885
+2694
+article number 1886
+3026
+article number 1887
+2601
+article number 1888
+5783
+article number 1889
+4051
+article number 1890
+3573
+article number 1891
+2798
+article number 1892
+3755
+article number 1893
+2126
+article number 1894
+1726
+article number 1895
+2590
+article number 1896
+2972
+article number 1897
+2431
+article number 1898
+2803
+article number 1899
+12269
+article number 1900
+2747
+article number 1901
+4926
+article number 1902
+2539
+article number 1903
+1864
+article number 1904
+2066
+article number 1905
+25132
+article number 1906
+3022
+article number 1907
+3954
+article number 1908
+6850
+article number 1909
+5475
+article number 1910
+176
+article number 1911
+3323
+article number 1912
+2045
+article number 1913
+531
+article number 1914
+1655
+article number 1915
+2012
+article number 1916
+1293
+article number 1917
+1173
+article number 1918
+420
+article number 1919
+5578
+article number 1920
+2794
+article number 1921
+1627
+article number 1922
+677
+article number 1923
+2081
+article number 1924
+2675
+article number 1925
+2993
+article number 1926
+1605
+article number 1927
+1150
+article number 1928
+1615
+article number 1929
+5668
+article number 1930
+870
+article number 1931
+2885
+article number 1932
+3005
+article number 1933
+2396
+article number 1934
+1727
+article number 1935
+2358
+article number 1936
+1194
+article number 1937
+1087
+article number 1938
+1848
+article number 1939
+4413
+article number 1940
+2795
+article number 1941
+2685
+article number 1942
+3849
+article number 1943
+1216
+article number 1944
+7050
+article number 1945
+8997
+article number 1946
+2487
+article number 1947
+3632
+article number 1948
+3347
+article number 1949
+3941
+article number 1950
+1835
+article number 1951
+2547
+article number 1952
+2102
+article number 1953
+1752
+article number 1954
+3442
+article number 1955
+2407
+article number 1956
+1336
+article number 1957
+3276
+article number 1958
+4417
+article number 1959
+2068
+article number 1960
+2767
+article number 1961
+2328
+article number 1962
+3522
+article number 1963
+5277
+article number 1964
+2854
+article number 1965
+2687
+article number 1966
+1699
+article number 1967
+4488
+article number 1968
+2954
+article number 1969
+2243
+article number 1970
+4998
+article number 1971
+3716
+article number 1972
+2476
+article number 1973
+2546
+article number 1974
+3224
+article number 1975
+1654
+article number 1976
+1632
+article number 1977
+5410
+article number 1978
+2367
+article number 1979
+3084
+article number 1980
+2725
+article number 1981
+1244
+article number 1982
+4257
+article number 1983
+5264
+article number 1984
+1930
+article number 1985
+8365
+article number 1986
+2686
+article number 1987
+2303
+article number 1988
+3912
+article number 1989
+472
+article number 1990
+1769
+article number 1991
+2413
+article number 1992
+7181
+article number 1993
+781
+article number 1994
+3741
+article number 1995
+4400
+article number 1996
+2184
+article number 1997
+2391
+article number 1998
+3300
+article number 1999
+3424
+article number 2000
+2036
+article number 2001
+4409
+article number 2002
+something bad happened on article 2002, for 2017-10-16
+0
+article number 2003
+3366
+article number 2004
+4083
+article number 2005
+1473
+article number 2006
+1783
+article number 2007
+2826
+article number 2008
+1764
+article number 2009
+1134
+article number 2010
+2922
+article number 2011
+1936
+article number 2012
+593
+article number 2013
+4861
+article number 2014
+2468
+article number 2015
+7345
+article number 2016
+3314
+article number 2017
+13446
+article number 2018
+3461
+article number 2019
+4363
+article number 2020
+3648
+article number 2021
+3402
+article number 2022
+9159
+article number 2023
+829
+article number 2024
+80
+article number 2025
+2808
+article number 2026
+2181
+article number 2027
+1803
+article number 2028
+2994
+article number 2029
+1682
+article number 2030
+1813
+article number 2031
+9637
+article number 2032
+1617
+article number 2033
+4732
+article number 2034
+5314
+article number 2035
+2313
+article number 2036
+727
+article number 2037
+2445
+article number 2038
+5133
+article number 2039
+2237
+article number 2040
+321
+article number 2041
+8665
+article number 2042
+5840
+article number 2043
+1485
+article number 2044
+349
+article number 2045
+2552
+article number 2046
+4018
+article number 2047
+3727
+article number 2048
+1330
+article number 2049
+1739
+article number 2050
+4597
+article number 2051
+5006
+article number 2052
+1172
+article number 2053
+3455
+article number 2054
+2255
+article number 2055
+2407
+article number 2056
+something bad happened on article 2056, for 2017-10-23
+0
+article number 2057
+3505
+article number 2058
+1737
+article number 2059
+12715
+article number 2060
+2007
+article number 2061
+2597
+article number 2062
+2745
+article number 2063
+80
+article number 2064
+3075
+article number 2065
+4166
+article number 2066
+3263
+article number 2067
+2419
+article number 2068
+8220
+article number 2069
+4561
+article number 2070
+4109
+article number 2071
+1283
+article number 2072
+2413
+article number 2073
+1711
+article number 2074
+2075
+article number 2075
+3187
+article number 2076
+1831
+article number 2077
+2394
+article number 2078
+935
+article number 2079
+2552
+article number 2080
+1425
+article number 2081
+2526
+article number 2082
+1799
+article number 2083
+1341
+article number 2084
+4392
+article number 2085
+3899
+article number 2086
+4163
+article number 2087
+36433
+article number 2088
+4123
+article number 2089
+2920
+article number 2090
+2366
+article number 2091
+2553
+article number 2092
+3107
+article number 2093
+636
+article number 2094
+998
+article number 2095
+something bad happened on article 2095, for 2017-10-27
+0
+article number 2096
+3105
+article number 2097
+2630
+article number 2098
+4732
+article number 2099
+2221
+article number 2100
+1509
+article number 2101
+2973
+article number 2102
+1232
+article number 2103
+1667
+article number 2104
+2229
+article number 2105
+3249
+article number 2106
+4136
+article number 2107
+4122
+article number 2108
+1394
+article number 2109
+638
+article number 2110
+1683
+article number 2111
+2054
+article number 2112
+9947
+article number 2113
+1443
+article number 2114
+1876
+article number 2115
+2820
+article number 2116
+1321
+article number 2117
+1784
+article number 2118
+3039
+article number 2119
+4681
+article number 2120
+640
+article number 2121
+2610
+article number 2122
+2662
+article number 2123
+1224
+article number 2124
+3094
+article number 2125
+2620
+article number 2126
+1520
+article number 2127
+1109
+article number 2128
+4196
+article number 2129
+1324
+article number 2130
+2592
+article number 2131
+2451
+article number 2132
+3017
+article number 2133
+1166
+article number 2134
+13463
+article number 2135
+3138
+article number 2136
+534
+article number 2137
+3665
+article number 2138
+1389
+article number 2139
+1674
+article number 2140
+11833
+article number 2141
+3476
+article number 2142
+3332
+article number 2143
+1215
+article number 2144
+1774
+article number 2145
+1241
+article number 2146
+4619
+article number 2147
+5198
+article number 2148
+3423
+article number 2149
+3037
+article number 2150
+5544
+article number 2151
+9010
+article number 2152
+5777
+article number 2153
+2455
+article number 2154
+1371
+article number 2155
+1525
+article number 2156
+3306
+article number 2157
+208
+article number 2158
+1726
+article number 2159
+22217
+article number 2160
+2645
+article number 2161
+1979
+article number 2162
+3476
+article number 2163
+6365
+article number 2164
+2162
+article number 2165
+2574
+article number 2166
+2295
+article number 2167
+2658
+article number 2168
+2047
+article number 2169
+2639
+article number 2170
+1870
+article number 2171
+2672
+article number 2172
+6353
+article number 2173
+2125
+article number 2174
+4496
+article number 2175
+1547
+article number 2176
+1161
+article number 2177
+2092
+article number 2178
+2363
+article number 2179
+1887
+article number 2180
+something bad happened on article 2180, for 2017-11-08
+0
+article number 2181
+1195
+article number 2182
+3008
+article number 2183
+2764
+article number 2184
+2058
+article number 2185
+5427
+article number 2186
+1906
+article number 2187
+794
+article number 2188
+2035
+article number 2189
+2099
+article number 2190
+4850
+article number 2191
+2014
+article number 2192
+5250
+article number 2193
+2851
+article number 2194
+3222
+article number 2195
+5004
+article number 2196
+1840
+article number 2197
+3925
+article number 2198
+208
+article number 2199
+44
+article number 2200
+795
+article number 2201
+4772
+article number 2202
+1554
+article number 2203
+663
+article number 2204
+9102
+article number 2205
+1159
+article number 2206
+1816
+article number 2207
+7964
+article number 2208
+2603
+article number 2209
+1883
+article number 2210
+2821
+article number 2211
+5316
+article number 2212
+2265
+article number 2213
+1838
+article number 2214
+2421
+article number 2215
+2628
+article number 2216
+1598
+article number 2217
+2773
+article number 2218
+839
+article number 2219
+3837
+article number 2220
+3781
+article number 2221
+2316
+article number 2222
+741
+article number 2223
+2348
+article number 2224
+something bad happened on article 2224, for 2017-11-14
+0
+article number 2225
+1733
+article number 2226
+3284
+article number 2227
+2557
+article number 2228
+697
+article number 2229
+3855
+article number 2230
+8215
+article number 2231
+2224
+article number 2232
+4554
+article number 2233
+9501
+article number 2234
+3042
+article number 2235
+1766
+article number 2236
+13218
+article number 2237
+6400
+article number 2238
+2148
+article number 2239
+4786
+article number 2240
+5822
+article number 2241
+1297
+article number 2242
+1829
+article number 2243
+1546
+article number 2244
+4726
+article number 2245
+4002
+article number 2246
+10740
+article number 2247
+146
+article number 2248
+1856
+article number 2249
+4483
+article number 2250
+1713
+article number 2251
+6562
+article number 2252
+1954
+article number 2253
+712
+article number 2254
+4602
+article number 2255
+1190
+article number 2256
+1679
+article number 2257
+1833
+article number 2258
+1830
+article number 2259
+2008
+article number 2260
+3433
+article number 2261
+2653
+article number 2262
+1931
+article number 2263
+5699
+article number 2264
+1501
+article number 2265
+1221
+article number 2266
+2002
+article number 2267
+3094
+article number 2268
+3194
+article number 2269
+2402
+article number 2270
+1177
+article number 2271
+6361
+article number 2272
+2853
+article number 2273
+3984
+article number 2274
+9246
+article number 2275
+1292
+article number 2276
+464
+article number 2277
+8322
+article number 2278
+3187
+article number 2279
+1457
+article number 2280
+1868
+article number 2281
+121
+article number 2282
+1068
+article number 2283
+5232
+article number 2284
+3018
+article number 2285
+7648
+article number 2286
+1034
+article number 2287
+1472
+article number 2288
+2283
+article number 2289
+7496
+article number 2290
+4080
+article number 2291
+1771
+article number 2292
+2335
+article number 2293
+3972
+article number 2294
+11428
+article number 2295
+1562
+article number 2296
+1388
+article number 2297
+1440
+article number 2298
+2611
+article number 2299
+1372
+article number 2300
+3587
+article number 2301
+1312
+article number 2302
+3162
+article number 2303
+1440
+article number 2304
+2934
+article number 2305
+1884
+article number 2306
+4745
+article number 2307
+something bad happened on article 2307, for 2017-11-28
+0
+article number 2308
+1840
+article number 2309
+0
+article number 2310
+4387
+article number 2311
+1410
+article number 2312
+2137
+article number 2313
+3577
+article number 2314
+3250
+article number 2315
+3225
+article number 2316
+1128
+article number 2317
+1315
+article number 2318
+something bad happened on article 2318, for 2017-11-29
+0
+article number 2319
+633
+article number 2320
+6540
+article number 2321
+3523
+article number 2322
+2258
+article number 2323
+1217
+article number 2324
+1759
+article number 2325
+1084
+article number 2326
+1785
+article number 2327
+something bad happened on article 2327, for 2017-11-30
+0
+article number 2328
+1789
+article number 2329
+1030
+article number 2330
+1395
+article number 2331
+1224
+article number 2332
+1708
+article number 2333
+4332
+article number 2334
+1411
+article number 2335
+2463
+article number 2336
+1806
+article number 2337
+805
+article number 2338
+1649
+article number 2339
+689
+article number 2340
+906
+article number 2341
+2289
+article number 2342
+3395
+article number 2343
+2285
+article number 2344
+1816
+article number 2345
+740
+article number 2346
+2285
+article number 2347
+1357
+article number 2348
+299
+article number 2349
+1318
+article number 2350
+5013
+article number 2351
+768
+article number 2352
+468
+article number 2353
+7053
+article number 2354
+1135
+article number 2355
+1795
+article number 2356
+6944
+article number 2357
+1720
+article number 2358
+2202
+article number 2359
+4804
+article number 2360
+1790
+article number 2361
+1787
+article number 2362
+1015
+article number 2363
+2675
+article number 2364
+3674
+article number 2365
+3745
+article number 2366
+1854
+article number 2367
+2970
+article number 2368
+3957
+article number 2369
+1285
+article number 2370
+4091
+article number 2371
+2022
+article number 2372
+3291
+article number 2373
+1393
+article number 2374
+3266
+article number 2375
+1450
+article number 2376
+639
+article number 2377
+2051
+article number 2378
+15248
+article number 2379
+2055
+article number 2380
+1750
+article number 2381
+2551
+article number 2382
+3126
+article number 2383
+5840
+article number 2384
+6572
+article number 2385
+3797
+article number 2386
+2987
+article number 2387
+1698
+article number 2388
+3328
+article number 2389
+2700
+article number 2390
+2523
+article number 2391
+2797
+article number 2392
+1096
+article number 2393
+1219
+article number 2394
+5003
+article number 2395
+612
+article number 2396
+1774
+article number 2397
+something bad happened on article 2397, for 2017-12-11
+0
+article number 2398
+3896
+article number 2399
+2177
+article number 2400
+3248
+article number 2401
+1041
+article number 2402
+6258
+article number 2403
+1054
+article number 2404
+2106
+article number 2405
+5532
+article number 2406
+2674
+article number 2407
+5518
+article number 2408
+242
+article number 2409
+1089
+article number 2410
+1472
+article number 2411
+3219
+article number 2412
+2450
+article number 2413
+4101
+article number 2414
+3016
+article number 2415
+973
+article number 2416
+1884
+article number 2417
+3669
+article number 2418
+3299
+article number 2419
+4733
+article number 2420
+2222
+article number 2421
+6195
+article number 2422
+1098
+article number 2423
+2192
+article number 2424
+1760
+article number 2425
+4420
+article number 2426
+2800
+article number 2427
+2521
+article number 2428
+2172
+article number 2429
+2477
+article number 2430
+4627
+article number 2431
+1460
+article number 2432
+866
+article number 2433
+1116
