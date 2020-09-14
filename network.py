@@ -140,6 +140,27 @@ LSTM1 = tf.keras.layers.LSTM(128)(Embedding1)
 
 #process numerical data
 Input2 = tf.keras.layers.Input(shape = (28,))
+Dense1 = tf.keras.layers.Dense(64,activation="relu")(Input2)
 
 #combine data types
-Concatenation1 = concatenate([nlp_out, meta_input]) 
+Concatenation1 = concatenate([LSTM1, Dense1]) 
+CombinedDense = tf.keras.layers.Dense(16, activation="relu")(combinedInput)
+Output = Dense(1, activation="linear")(CombinedDense)
+
+model = tf.keras.Model(inputs=[Input1 , Input2], outputs=Output)
+opt = tf.keras.optimizers.Adam(lr=1e-3, decay=1e-3 / 200)
+model.compile(loss="mean_absolute_percentage_error", optimizer=opt)
+model.summary()
+
+checkpoint_dir = './training_checkpoints'
+# Name of the checkpoint files
+checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt_{epoch}")
+
+checkpoint_callback=tf.keras.callbacks.ModelCheckpoint(
+    filepath=checkpoint_prefix,
+    save_weights_only=True, period = 10)
+
+#start training here
+
+model.fit(
+	x=[tstext, tsstats], y=Y, epochs=50, batch_size=8)
